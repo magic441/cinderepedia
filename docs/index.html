@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./style.css" type="text/css" media="all">
+    <title>シンデレラガールズ図鑑</title>
+</head>
+<body>
+    <header id="index">
+        <a href="./pickup.html">
+            <img class = "loupe" src ="./assets/loupe.svg" >
+        </a>
+    </header>
+    <main>
+        <div class="name"></div>
+        <div class ="card_image">
+            <img class="img_displayed">
+            <div class= "buttons">
+                <img class="card" src="./assets/card.svg" onclick="changeStatetoCard()">
+                <img class="fullsize" src="./assets/fullsize.svg" onclick="changeStatetoFullsize()">
+                <img class="standalone" src="./assets/standalone.svg" onclick="changeStatetoStandalone()">
+                <img class="petit" src="./assets/petit.svg" onclick="changeStatetoPetit()">  
+            </div>           
+        </div>
+        <div class ="variable"></div>
+        <div class = "unit">
+            <p>参加ユニット</p>
+            <div class="unit_list">
+            </div>
+        </div>
+    </main>
+    <script type="text/javascript" src="idol_data.js"></script>
+    <script type="text/javascript" src="unit_data.js"></script>
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
