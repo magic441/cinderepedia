@@ -1,0 +1,27 @@
+{
+    "name": "でれペディア",
+    "short_name": "でれペディア",
+    "icons": [
+        {
+          "src": "assets/512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        },
+        {
+          "src": "assets/256.png",
+          "sizes": "256x256",
+          "type": "image/png"
+        },
+        {
+          "src": "assets/192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+    ],
+    "start_url": "https://magic441.github.io/cinderepedia/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "description": "ES6練習",
+    "background_color": "#ffffff",
+    "theme_color": "#CEDEE8"
+}
