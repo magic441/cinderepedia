@@ -52,7 +52,7 @@ html {
     animation-name: slideInRight;
     animation-duration: 0.2s;
   }
-  
+
 body {
     margin: 0 auto;
     padding: 0;
@@ -121,8 +121,8 @@ body {
 .variable {
     color: #5989cf;
     background: #c6e4ff;
-    border-bottom: solid 6px #aac5de;
     border-radius: 9px;
+    padding: 2px;
 }
 
 .icon{

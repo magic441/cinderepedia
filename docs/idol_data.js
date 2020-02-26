@@ -520,6 +520,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100722.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/103/16.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100722.png"
+			},
+			{
+				"id": 100785,
+				"title": "［想いのアンサンブル］水本ゆかり（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100785.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100785.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100785.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/103/17.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100785.png"
+			},
+			{
+				"id": 100786,
+				"title": "［想いのアンサンブル］水本ゆかり+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100786.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100786.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100786.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/103/18.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100786.png"
 			}
 		]
 	},
@@ -1708,6 +1726,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100612.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/112/18.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100612.png"
+			},
+			{
+				"id": 100787,
+				"title": "［バレンタインエンジェル］緒方智絵里（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100787.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100787.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100787.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/112/19.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100787.png"
+			},
+			{
+				"id": 100788,
+				"title": "［バレンタインエンジェル］緒方智絵里+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100788.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100788.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100788.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/112/20.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100788.png"
 			}
 		]
 	},
@@ -1996,6 +2032,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100738.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/114/8.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100738.png"
+			},
+			{
+				"id": 100795,
+				"title": "［みゆきとあそぼ ! ］柳瀬美由紀（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100795.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100795.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100795.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/114/9.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100795.png"
+			},
+			{
+				"id": 100796,
+				"title": "［みゆきとあそぼ ! ］柳瀬美由紀+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100796.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100796.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100796.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/114/10.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100796.png"
 			}
 		]
 	},
@@ -2248,6 +2302,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100654.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/116/6.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100654.png"
+			},
+			{
+				"id": 100791,
+				"title": "［あるがまま咲く花］江上椿（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100791.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100791.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100791.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/116/7.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100791.png"
+			},
+			{
+				"id": 100792,
+				"title": "［あるがまま咲く花］江上椿+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100792.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100792.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100792.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/116/8.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100792.png"
 			}
 		]
 	},
@@ -3832,6 +3904,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100590.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/129/6.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100590.png"
+			},
+			{
+				"id": 100793,
+				"title": "［早耶の瞳に恋してる］松原早耶（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100793.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100793.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100793.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/129/7.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100793.png"
+			},
+			{
+				"id": 100794,
+				"title": "［早耶の瞳に恋してる］松原早耶+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100794.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100794.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100794.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/129/8.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100794.png"
 			}
 		]
 	},
@@ -8854,6 +8944,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200640.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/176/14.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200640.png"
+			},
+			{
+				"id": 200793,
+				"title": "［ご注文はひなですか？］荒木比奈（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200793.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200793.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200793.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/176/15.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200793.png"
+			},
+			{
+				"id": 200794,
+				"title": "［ご注文はひなですか？］荒木比奈+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200794.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200794.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200794.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/176/16.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200794.png"
 			}
 		]
 	},
@@ -8944,6 +9052,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200532.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/177/8.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200532.png"
+			},
+			{
+				"id": 200797,
+				"title": "［ドライブトゥネクスト］東郷あい（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200797.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200797.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200797.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/177/9.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200797.png"
+			},
+			{
+				"id": 200798,
+				"title": "［ドライブトゥネクスト］東郷あい+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200798.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200798.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200798.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/177/10.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200798.png"
 			}
 		]
 	},
@@ -9520,6 +9646,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200714.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/181/16.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200714.png"
+			},
+			{
+				"id": 200803,
+				"title": "［印象］三船美優（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200803.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200803.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200803.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/181/17.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200803.png"
+			},
+			{
+				"id": 200804,
+				"title": "［印象］三船美優+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200804.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200804.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200804.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/181/18.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200804.png"
 			}
 		]
 	},
@@ -10798,6 +10942,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200632.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/192/8.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200632.png"
+			},
+			{
+				"id": 200801,
+				"title": "［るんるんクッキング］浅利七海（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200801.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200801.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200801.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/192/9.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200801.png"
+			},
+			{
+				"id": 200802,
+				"title": "［るんるんクッキング］浅利七海+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200802.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200802.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200802.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/192/10.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200802.png"
 			}
 		]
 	},
@@ -11482,6 +11644,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200730.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/198/16.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200730.png"
+			},
+			{
+				"id": 200795,
+				"title": "［Unlock Starbeat］神崎蘭子（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200795.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200795.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200795.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/198/17.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200795.png"
+			},
+			{
+				"id": 200796,
+				"title": "［Unlock Starbeat］神崎蘭子+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200796.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200796.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200796.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/198/18.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200796.png"
 			}
 		]
 	},
@@ -12904,6 +13084,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200560.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/215/6.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200560.png"
+			},
+			{
+				"id": 200805,
+				"title": "［華麗なパピヨン］岸部彩華（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200805.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200805.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200805.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/215/7.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200805.png"
+			},
+			{
+				"id": 200806,
+				"title": "［華麗なパピヨン］岸部彩華+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200806.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200806.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200806.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/215/8.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200806.png"
 			}
 		]
 	},
@@ -16378,6 +16576,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300692.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/240/8.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300692.png"
+			},
+			{
+				"id": 300777,
+				"title": "［マックスビューティー］斉藤洋子（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300777.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300777.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300777.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/240/9.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300777.png"
+			},
+			{
+				"id": 300778,
+				"title": "［マックスビューティー］斉藤洋子+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300778.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300778.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300778.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/240/10.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300778.png"
 			}
 		]
 	},
@@ -17818,6 +18034,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300622.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/254/10.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300622.png"
+			},
+			{
+				"id": 300721,
+				"title": "［ロワイヤルジョーカー］小関麗奈（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300721.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300721.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300721.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/254/11.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300721.png"
+			},
+			{
+				"id": 300722,
+				"title": "［ロワイヤルジョーカー］小関麗奈+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300722.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300722.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300722.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/254/12.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300722.png"
 			}
 		]
 	},
@@ -21364,6 +21598,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300676.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/286/10.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300676.png"
+			},
+			{
+				"id": 300779,
+				"title": "［ダッシュ・ロワイヤル］北川真尋（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300779.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300779.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300779.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/286/11.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300779.png"
+			},
+			{
+				"id": 300780,
+				"title": "［ダッシュ・ロワイヤル］北川真尋+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300780.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300780.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300780.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/286/12.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300780.png"
 			}
 		]
 	},
@@ -21994,6 +22246,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300734.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/292/12.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300734.png"
+			},
+			{
+				"id": 300781,
+				"title": "［印象］浜口あやめ（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300781.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300781.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300781.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/292/13.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300781.png"
+			},
+			{
+				"id": 300782,
+				"title": "［印象］浜口あやめ+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300782.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300782.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300782.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/292/14.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300782.png"
 			}
 		]
 	},
@@ -22624,6 +22894,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300572.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/297/16.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300572.png"
+			},
+			{
+				"id": 300775,
+				"title": "［ラグジュアリィ・はぁと］佐藤心（SSR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300775.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300775.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300775.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/297/17.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300775.png"
+			},
+			{
+				"id": 300776,
+				"title": "［ラグジュアリィ・はぁと］佐藤心+（SSR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/300776.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/300776.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/300776.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/297/18.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/300776.png"
 			}
 		]
 	},
@@ -22984,6 +23272,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200720.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/305/4.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200720.png"
+			},
+			{
+				"id": 200799,
+				"title": "［ポップ・スウィート・ポップ］砂塚あきら（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200799.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200799.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200799.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/305/5.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200799.png"
+			},
+			{
+				"id": 200800,
+				"title": "［ポップ・スウィート・ポップ］砂塚あきら+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/200800.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/200800.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/200800.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/305/6.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/200800.png"
 			}
 		]
 	},
@@ -23200,6 +23506,24 @@ const idol_data =
 				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100664.png",
 				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/308/6.png",
 				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100664.png"
+			},
+			{
+				"id": 100789,
+				"title": "［Unlock Starbeat］白雪千夜（SR）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100789.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100789.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100789.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/308/7.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100789.png"
+			},
+			{
+				"id": 100790,
+				"title": "［Unlock Starbeat］白雪千夜+（SR+）",
+				"icon": "https://hidamarirhodonite.kirara.ca/icon_card/100790.png",
+				"card": "https://hidamarirhodonite.kirara.ca/card/100790.png",
+				"fullsize": "https://hidamarirhodonite.kirara.ca/spread/100790.png",
+				"standalone": "https://hidamarirhodonite.kirara.ca/chara2/308/8.png",
+				"petit": "https://hidamarirhodonite.kirara.ca/puchi/100790.png"
 			}
 		]
 	},
